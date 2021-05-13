@@ -23,6 +23,6 @@
     "webpack-cli": "^4.6.0"
   },
   "dependencies": {
-    "@kitware/vtk.js": "^17.11.0"
+    "@kitware/vtk.js": "^18.1.0"
   }
 }
